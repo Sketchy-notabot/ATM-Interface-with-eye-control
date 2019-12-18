@@ -12,3 +12,6 @@ numpy
 cmake
 
 ![Image of ATM](https://github.com/Sketchy-notabot/ATM-Interface-with-eye-control/blob/master/atpin.png)
+![Image of LeftGaze](https://github.com/Sketchy-notabot/ATM-Interface-with-eye-control/blob/master/leftgaze.png)
+![Image of rightgaze](https://github.com/Sketchy-notabot/ATM-Interface-with-eye-control/blob/master/rightgaze.png)
+![Image of Blinking](https://github.com/Sketchy-notabot/ATM-Interface-with-eye-control/blob/master/blink.png)
